@@ -49,19 +49,19 @@ These are just a few of the features offered by the LinkedIn application. Explor
 
 
 3. ### Find a job:  
-   - If you’re looking for a new professional opportunity, you can get started on your job search on LinkedIn. You can use LinkedIn to research companies and reach out to the hiring community. You can also apply directly for roles, save job searches, and notify your connections and recruiters that you’re open for job opportunities.
+  - If you’re looking for a new professional opportunity, you can get started on your job search on LinkedIn. You can use LinkedIn to research companies and reach out to the hiring community. You can also apply directly for roles, save job searches, and notify your connections and recruiters that you’re open for job opportunities.
    
     ![image](https://github.com/Anna-Jaison/Linkedin/assets/119341571/c73b730f-f5e5-41ef-98d4-7b66e44ee680)
 
     
 4. ### Participate in conversations:  
-   - You can easily participate in conversations on LinkedIn. Participating in conversations can allow you to share your perspective on relevant issues and topics with others. You can like and comment on posts and articles on LinkedIn. You can create or join LinkedIn Groups to connect and grow with members who share your interests, experiences, or aspirations. You can also use a set of lightweight expressions called LinkedIn reactions, to easily communicate with your network.
+  - You can easily participate in conversations on LinkedIn. Participating in conversations can allow you to share your perspective on relevant issues and topics with others. You can like and comment on posts and articles on LinkedIn. You can create or join LinkedIn Groups to connect and grow with members who share your interests, experiences, or aspirations. You can also use a set of lightweight expressions called LinkedIn reactions, to easily communicate with your network.
      
     ![image](https://github.com/Anna-Jaison/Linkedin/assets/119341571/dba42d06-b25c-4d9a-9d8e-b5cf92b89532)
 
      
 5. ### Post content:  
-   - Millions of members come to LinkedIn every day to connect, learn, and share. You can empower and educate your professional circle with the content you post on LinkedIn. You can also share your thoughts and ideas with LinkedIn members using the share box.
+  - Millions of members come to LinkedIn every day to connect, learn, and share. You can empower and educate your professional circle with the content you post on LinkedIn. You can also share your thoughts and ideas with LinkedIn members using the share box.
    
     ![image](https://github.com/Anna-Jaison/Linkedin/assets/119341571/ea1b1983-b7b1-411b-989e-e66f6c3409fa)
 
