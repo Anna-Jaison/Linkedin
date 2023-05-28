@@ -1,5 +1,10 @@
 # Linkedin-Connect to Opporunity
 
+-LinkedIn is the world's largest professional network on the internet. You can use LinkedIn to find the right job or internship, connect and strengthen professional relationships, and learn the skills you need to succeed in your career. You can access LinkedIn from a desktop, LinkedIn mobile app, or mobile web experience.
+
+A complete LinkedIn profile can help you connect with opportunities by showcasing your unique professional story through experience, skills, and education.
+You can also use LinkedIn to organize offline events, join groups, write articles, post photos and videos, and more.
+
 ## Features
 
 - **Profile**: Create a professional profile to showcase your skills, experience, and education. Customize your profile with a profile picture, headline, and summary. Add details about your work history, certifications, and projects.
@@ -27,3 +32,5 @@ These are just a few of the features offered by the LinkedIn application. Explor
 ## Signin
 
 ![image](https://github.com/Anna-Jaison/Linkedin/assets/119341571/8f222389-e630-45a8-9758-562df10ca80b)
+
+- **Signin using with email**:To sign in using an email address, enter your email address and create a strong password. Then click “Sign Up” or “Create Account”. Alternatively, you can sign in using your Google account if you have one.
