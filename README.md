@@ -33,7 +33,7 @@ These are just a few of the features offered by the LinkedIn application. Explor
 
  1. ### Create your profile: 
    - Signing up and creating your profile is the best way to begin using LinkedIn. A complete LinkedIn profile will summarize your professional experience to your connections, current and future employers, and recruiters. Through your profile, you can showcase your professional life, milestones, skills and interests.
-   #### Signin
+        #### Signin
    - *Signin using with email*: To sign in using an email address, enter your email address and create a strong password. Then click “Sign Up” or “Create Account”. Alternatively, you can sign in using your Google account if you have one.
 
    ![image](https://github.com/Anna-Jaison/Linkedin/assets/119341571/8f222389-e630-45a8-9758-562df10ca80b)
@@ -44,7 +44,8 @@ These are just a few of the features offered by the LinkedIn application. Explor
 
 
 
-     <img width="1000" padding-top="10px" alt="NET" src="https://github.com/Anna-Jaison/Linkedin/assets/119341571/d44be5ba-bcab-49c2-ae81-c424001e91bd">
+    ![image](https://github.com/Anna-Jaison/Linkedin/assets/119341571/273cc2fd-b577-4811-b967-2e412bf4a076)
+
 
 
 3. ### Find a job:  
