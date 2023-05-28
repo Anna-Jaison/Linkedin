@@ -32,9 +32,9 @@ These are just a few of the features offered by the LinkedIn application. Explor
 ## How do I get started on LinkedIn?
 
  ### Create your profile: 
-  -Signing up and creating your profile is the best way to begin using LinkedIn. A complete LinkedIn profile will summarize your professional experience to your connections, current and future employers, and recruiters. Through your profile, you can showcase your professional life, milestones, skills and interests.
-     #### Signin
-     - *Signin using with email*: To sign in using an email address, enter your email address and create a strong password. Then click “Sign Up” or “Create Account”. Alternatively, you can sign in using your Google account if you have one.
+  - Signing up and creating your profile is the best way to begin using LinkedIn. A complete LinkedIn profile will summarize your professional experience to your connections, current and future employers, and recruiters. Through your profile, you can showcase your professional life, milestones, skills and interests.
+   #### Signin
+   - *Signin using with email*: To sign in using an email address, enter your email address and create a strong password. Then click “Sign Up” or “Create Account”. Alternatively, you can sign in using your Google account if you have one.
 
    ![image](https://github.com/Anna-Jaison/Linkedin/assets/119341571/8f222389-e630-45a8-9758-562df10ca80b)
 
