@@ -54,7 +54,7 @@ These are just a few of the features offered by the LinkedIn application. Explor
      
 5. **Post content**: Millions of members come to LinkedIn every day to connect, learn, and share. You can empower and educate your professional circle with the content you post on LinkedIn. You can also share your thoughts and ideas with LinkedIn members using the share box.
    
-      ![image](https://github.com/Anna-Jaison/Linkedin/assets/119341571/4e908b35-279d-4728-a272-83dff103746c)
+      <img width="1000" alt="NET" src="(https://github.com/Anna-Jaison/Linkedin/assets/119341571/4e908b35-279d-4728-a272-83dff103746c)"> 
 
 
 
