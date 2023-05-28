@@ -42,9 +42,7 @@ These are just a few of the features offered by the LinkedIn application. Explor
  2. ### Build your network:  
    - Your network plays a crucial part in unlocking the power of LinkedIn. It’ll help you understand what is happening in your industry and professional circle. You can begin by adding your family, friends, past or current classmates, and coworkers to your network. You can also follow people, companies, or topics by navigating directly to the Follow fresh perspectives page, which displays recommended sources to follow. You can use the LinkedIn Events feature to create and join professional Events such as online workshops, seminars, sales and marketing Events, networking Events and more.
 
-
-
-    ![image](https://github.com/Anna-Jaison/Linkedin/assets/119341571/273cc2fd-b577-4811-b967-2e412bf4a076)
+   ![image](https://github.com/Anna-Jaison/Linkedin/assets/119341571/273cc2fd-b577-4811-b967-2e412bf4a076)
 
 
 
