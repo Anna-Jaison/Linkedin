@@ -1,6 +1,6 @@
-# Linkedin
+# Linkedin-Connect to Opporunity
 
-## LinkedIn Application Features
+## Features
 
 - **Profile**: Create a professional profile to showcase your skills, experience, and education. Customize your profile with a profile picture, headline, and summary. Add details about your work history, certifications, and projects.
 
